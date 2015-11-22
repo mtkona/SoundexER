@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">SoundexER</string>
+    <string name="label_RA">RA: 20478824</string>
+    <string name="label_aluno">Marcelo Ailton de Queiroz Tini</string>
+    <string name="label_copyright">Copyright 2015 Por Marcelo Ailton de Queiroz Tini</string>
+    <string name="label_botao_aplauso">Aplausos</string>
+    <string name="label_botao_gelo">Gelo Quebrando</string>
+    <string name="label_botao_chuva">Chuva</string>
+    <string name="label_botao_tempestade">Tempestade</string>
+    <string name="label_botao_sobre">Sobre o aplicativo</string>
+    <string name="label_botao_ok">OK</string>
+    <string name="label_nome_aplicativo">SoundexER</string>
+    <string name="label_sub_titulo">Um aplicativo para tocar sons e combinar sons</string>
+    
+</resources>
